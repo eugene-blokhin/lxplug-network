@@ -1,4 +1,4 @@
-!(screenshot.png)
+![](screenshot.png)
 
 # How to build a package
 
