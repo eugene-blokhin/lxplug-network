@@ -2,7 +2,7 @@
 
 # How to build a package
 
-You can either compile your own binary package from sources, or you can just you a precompiled binary: [download](lxplug-network_0.18_armhf.deb).
+You can either compile your own binary package from sources, or you can just you a precompiled binary: [download](https://github.com/eugene-blokhin/lxplug-network/raw/master/lxplug-network_0.18_armhf.deb).
 
 If you want to compile it yourself, you will need to build the package on your Raspbery Pi. 
 
