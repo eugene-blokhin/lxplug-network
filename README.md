@@ -23,6 +23,6 @@ First, you need to uninstall the original package:
 sudo apt-get uninstall lxplug-network
 ```
 
-Then, you can just double-click on the .deb file that we bult above. 
+Then, you can just double-click on the .deb file that we built above. 
 
 The installation is completed. Now you need to reboot your Raspberry Pi.
