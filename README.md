@@ -4,7 +4,7 @@ This is a fork of original lxpanel, but with the PSK always masked and the check
 
 ![](screenshot.png)
 
-# How to build a package
+# How to build the package
 
 You can either compile your own binary package from sources, or you can just you a precompiled binary: [download](https://github.com/eugene-blokhin/lxplug-network/raw/master/lxplug-network_0.18_armhf.deb).
 
