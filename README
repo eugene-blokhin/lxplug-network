@@ -4,3 +4,12 @@ by setting the config parameters "BgScan" and "BgScanMenu", respectively,
 in the Config section of the "dhcpcdui" plugin in the lxpanel panel 
 definition file. Each takes a time in seconds as an argument - setting
 a value to 0 disables the relevant background scan.
+
+
+# How to build a package
+
+Install build dependencies:
+
+sudo apt-get build-dep lxplug-network
+dpkg-buildpackage -rfakeroot -uc -b 
+sudo apt-get uninstall lxplug-network
