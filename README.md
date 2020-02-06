@@ -1,6 +1,6 @@
 # About
 
-It is a fork of original lxpanel, but with the PSK always masked and the checkbox removed.
+This is a fork of original lxpanel, but with the PSK always masked and the checkbox removed.
 
 ![](screenshot.png)
 
